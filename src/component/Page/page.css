@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(160deg, #FCFBF4 , #800080);
+    height: 100vh;
+    width: 100vw;
+}
+
+.Page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

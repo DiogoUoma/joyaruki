@@ -1,0 +1,41 @@
+.card {
+    flex-direction: column;
+    background: linear-gradient(90deg, #FFD1DC, #3FE6E5);
+    border-radius: 70px;
+    padding: 70px 170px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+.imageContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagem {
+    align-items: center;
+    height: 280px;
+    width: 280px;
+    border-radius: 180px;
+}
+
+.textDescricao {
+    color: rgb(44, 43, 43);
+    font-size: 25px;
+}
+
+.socials {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+
+.iconImage {
+    height: 70px;
+    width: 70px;
+}
